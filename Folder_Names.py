@@ -11,5 +11,3 @@ def list_subfolders(main_folder_path):
 
 main_folder_path = 'Image_Sets'
 print(list_subfolders(main_folder_path))
-
-#comment  he fbe
